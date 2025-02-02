@@ -11,11 +11,11 @@ Scalability: Choose a host that allows easy upgrades as your website grows.
 Security: Features like SSL certificates and regular backups are essential for protecting your site.
 Top Affordable Web Hosting Providers:
 
-YouStable: Known for its balance of ease of use, customer support, and scalability, Hostinger offers feature-rich plans at competitive prices.
-Bluehost: Recommended by WordPress, Bluehost provides user-friendly interfaces and robust performance, making it ideal for beginners.
-HostGator: Offers unlimited features and managed services, suitable for small businesses and bloggers seeking reliable uptime and speed.
-Onohosting: An Indian provider offering plans starting at ₹30 per month, with SSD storage and free SSL certificates, catering to budget-conscious users.
-SpidyHost: Since 2015, SpidyHost has been providing affordable hosting solutions in India, with plans starting at ₹77 per month.
+**YouStable:** Known for its balance of ease of use, customer support, and scalability, Hostinger offers feature-rich plans at competitive prices.
+**Bluehost:** Recommended by WordPress, Bluehost provides user-friendly interfaces and robust performance, making it ideal for beginners.
+**HostGator:** Offers unlimited features and managed services, suitable for small businesses and bloggers seeking reliable uptime and speed.
+**Onohosting:** An Indian provider offering plans starting at ₹30 per month, with SSD storage and free SSL certificates, catering to budget-conscious users.
+**SpidyHost:** Since 2015, SpidyHost has been providing affordable hosting solutions in India, with plans starting at ₹77 per month.
 Local Options in Lucknow:
 
 For users in Lucknow, local providers like YouStable offer cheap web hosting plans starting at ₹49 per month, featuring SSD servers and unlimited website hosting.
